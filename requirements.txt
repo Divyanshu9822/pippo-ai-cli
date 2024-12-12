@@ -1,0 +1,9 @@
+openai
+ollama
+groq
+google-generativeai
+pydantic
+importlib-metadata    
+python-dotenv
+argparse        
+pyyaml
